@@ -43,6 +43,8 @@ This system is having a message system so that users can talk or pass a notifica
 <h1>Some Screenshots with Explanation</h1>
 
 you can view posts and the products before logged in
+<img src="pro/post.JPG">
+<img src="pro/product.JPG">
 
 
 
