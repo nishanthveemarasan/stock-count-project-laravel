@@ -45,6 +45,12 @@ This system is having a message system so that users can talk or pass a notifica
 you can view posts and the products before logged in
 <img src="pro/post.JPG">
 <img src="pro/product.JPG">
+<br>
+<h4>Authentication(Jetstream)</h4>
+I have used newly introduced Jetstreaam autentication for login, regitration. Also It will provide other nice features like update user information, change password, two factor authentication, forget email, and session management.
+By default, in jetstream email and password will be used for login but I have customised it by use username and password for login<br>
+<img src="pro/login.JPG">
+
 
 
 
