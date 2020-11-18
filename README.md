@@ -50,6 +50,10 @@ you can view posts and the products before logged in
 I have used newly introduced Jetstreaam autentication for login, regitration. Also It will provide other nice features like update user information, change password, two factor authentication, forget email, and session management.
 By default, in jetstream email and password will be used for login but I have customised it by use username and password for login<br>
 <img src="pro/login.JPG">
+<br>
+By default, In jetstream name, email password for registration. In my project I have added username in the registration page<br>
+<img src="pro/regis.JPG">
+<br>
 
 
 
