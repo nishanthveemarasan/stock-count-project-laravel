@@ -54,6 +54,9 @@ By default, in jetstream email and password will be used for login but I have cu
 By default, In jetstream name, email password for registration. In my project I have added username in the registration page<br>
 <img src="pro/regis.JPG">
 <br>
+<h4>Livewire</h4>
+<img src="pro/livewire.JPG">
+
 
 
 
