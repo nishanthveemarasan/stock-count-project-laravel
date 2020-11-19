@@ -54,10 +54,30 @@ By default, in jetstream email and password will be used for login but I have cu
 By default, In jetstream name, email password for registration. In my project I have added username in the registration page<br>
 <img src="pro/regis.JPG">
 <br>
-<h4>Livewire</h4>
+<h3>Livewire</h3>
 When we get an order, it might have more than one products. So, In that cases, user will be able to add more items at once rather than storing one by one in the system. To accomplish this I have used Livewire to accomplished this step. As shown in below image, my clicking ADD PRODUCT button, user will be able to add more items
 <br>
 <img src="pro/livewire.JPG">
+<br>
+<br>
+<h3>Dashboard</h3>
+<img src="pro/dash.JPG">
+<br>
+<h3>Update or delete Products</h3>
+<img src="pro/viewItem.JPG">
+<br>
+<h3>View all Orders' history</h3>
+<img src="pro/sellHistory.JPG">
+<br>
+<h3>View all posts</h3>
+<img src="pro/viewPost.JPG">
+<br>
+<h3>View all comments</h3>
+<img src="pro/comment.JPG">
+<br>
+<h3>Message System</h3>
+<img src="pro/message.JPG">
+<br>
 
 
 
