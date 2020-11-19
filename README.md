@@ -84,7 +84,7 @@ When we get an order, it might have more than one products. So, In that cases, u
 <h3>User Logs</h3>
 <img src="pro/logs.JPG">
 <br>
-<h3>User Logs</h3>
+<h3>Like , unlike and Comment Posts</h3>
 <img src="pro/like.JPG">
 <br>
 
