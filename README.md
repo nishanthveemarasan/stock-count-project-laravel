@@ -63,6 +63,9 @@ When we get an order, it might have more than one products. So, In that cases, u
 <h3>Dashboard</h3>
 <img src="pro/dash.JPG">
 <br>
+<h3>Account Settings</h3>
+<img src="pro/account.JPG">
+<br>
 <h3>Update or delete Products</h3>
 <img src="pro/viewItem.JPG">
 <br>
