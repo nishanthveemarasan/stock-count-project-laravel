@@ -55,6 +55,8 @@ By default, In jetstream name, email password for registration. In my project I 
 <img src="pro/regis.JPG">
 <br>
 <h4>Livewire</h4>
+When we get an order, it might have more than one products. So, In that cases, user will be able to add more items at once rather than storing one by one in the system. To accomplish this I have used Livewire to accomplished this step. As shown in below image, my clicking ADD PRODUCT button, user will be able to add more items
+<br>
 <img src="pro/livewire.JPG">
 
 
