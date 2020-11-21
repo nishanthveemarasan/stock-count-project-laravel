@@ -4,24 +4,32 @@ When I was working at the warehouse, we had to do stock count every week.in orde
 My web application has the following features.</div>
 <div >user will be able to view the products and their current stocks. Also, you will be able to see the posts but they need to login to like or comment the posts.user has to register in order to enter admin panel. However, user roles will be assigned by admin later.</div>
 <br>
-Once a user logged in, they can do following activities.
-• user will be notifed if there is any new posts published since they logged. for example, there are 4 new posts posted since they have logged out when they logged in you will be shown 4 posts so that you will knw that there are some new posts and they can view it.<br>
-• User can like or unlike a post and comment on them<br>
-• Add a new protect to the stock<br>
-• edit or delete an existing products<br>
-• everytime they get an order, we will add them in our system with received status. once we add, quatity of that item will be deducted automatically. once we paked the order, we will change the status to 'ready to sent' and we will add the users who packed that order. Also, once the order is sent to the customer, we will change the status to 'sent' <br>
-• In some cases where customer may cancel an order or add or deduct quantity in the existing order.our sytem has the solutions for these scenarios. when they add or deduct quantity or even cancel the orders, all the calculations will be done automatically. for example, when the order is cancelled, quantity of that product will be added to the current stock of that product<br>
-• Also user can see all the orders in a table so that everyone will know whether the order is ready to sent or still it is being packed or sent<br>
-• User can view the order history of an item (whole history or perticular duration)<br>
-• admin user can view and manage(assign role , delete) users<br>
-• admin user can approve or disapprove the comments or even delete those comments<br>
-• admin user can manage(delete , edit) existing posts and other users can only create a post and edit their posts<br>
-• A warning message will appear when a stock count of an item reaches its threshold (50).<br>
-• every activity will be monitored since a user has logged in into the system until log out. However,<br>
-only admin user can view the log history of all users, while others can only view their own history.<br>
-This system is having a message system so that users can talk or pass a notification to others.<br>
+Once a user logged in, they can do following activities.<br>
+<ul>
+    <li>user will be notifed if there is any new posts published since they logged. for example, there are 4 new posts posted since they have logged out when they logged in you        will be shown 4 posts so that you will knw that there are some new posts and they can view it.</li>
+    <li>User can like or unlike a post and comment on them</li>
+    <li>Add a new protect to the stock</li>
+    <li>edit or delete an existing products</li>
+     <li>everytime they get an order, we will add them in our system with received status. once we add, quatity of that item will be deducted automatically. once we paked the order, we will change the status to 'ready to sent' and we will add the users who packed that order. Also, once the order is sent to the customer, we will change the status to 'sent'</li>
+      <li>In some cases where customer may cancel an order or add or deduct quantity in the existing order.our sytem has the solutions for these scenarios. when they add or deduct quantity or even cancel the orders, all the calculations will be done automatically. for example, when the order is cancelled, quantity of that product will be added to the current stock of that product</li>
+      <li>Also user can see all the orders in a table so that everyone will know whether the order is ready to sent or still it is being packed or sent</li>
+      <li>User can view the order history of an item (whole history or perticular duration)</li>
+      <li>admin user can view and manage(assign role , delete) users</li>
+      <li>admin user can approve or disapprove the comments or even delete those comments</li>
+    <li> Also user can see all the orders in a table so that everyone will know whether the order is ready to sent or still it is being packed or sent</li>
+    <li> User can view the order history of an item (whole history or perticular duration)</li>
+    <li> admin user can view and manage(assign role , delete) users</li>
+    <li> admin user can approve or disapprove the comments or even delete those comments</li>
+    <li> admin user can manage(delete , edit) existing posts and other users can only create a post and edit their posts</li>
+    <li> A warning message will appear when a stock count of an item reaches its threshold (50).</li>
+    <li>every activity will be monitored since a user has logged in into the system until log out. However,
+    only admin user can view the log history of all users, while others can only view their own history.</li>
+</ul>
+
 <br>
-• Our system is having a message system so that user can talked to eachother through them. Our message system having following functionalities<br>
+<h6>This system is having a message system so that users can talk or pass a notification to others.</h6>
+
+Our system is having a message system so that user can talked to eachother through them. Our message system having following functionalities
 <ul>
   <li>if there is any new messages or has any unread messages, you will be notified when they logg in. so that can go to their inbox to view them </li>
   <li>once they view them then the message will be marked as read automatically. In addtion to that, you will be able to mark any number of messages as read or unread</li>
