@@ -1,10 +1,9 @@
 # stock-count-project-laravel
-<div style="text-align: justify;">This application will mange the stocks of the products in a warehouse or related work place.  
+<div style="text-align:justify;">This application will mange the stocks of the products in a warehouse or related work place.  
 When I was working at the warehouse, we had to do stock count every week.in order to save time and improve efficiencies instead of using hard copy stock count.
-My web application has the following features.
-user will be able to view the products and their current stocks. Also, you will be able to see the posts but they need to login to like or comment the posts.
-user has to register in order to enter admin panel. However, user roles will be assigned by admin later.
-Once a user logged in, they can do following activities.</div>
+My web application has the following features.</div>
+<div style="text-align:justify;">user will be able to view the products and their current stocks. Also, you will be able to see the posts but they need to login to like or comment the posts.user has to register in order to enter admin panel. However, user roles will be assigned by admin later.</div>
+Once a user logged in, they can do following activities.
 • user will be notifed if there is any new posts published since they logged. for example, there are 4 new posts posted since they have logged out when they logged in you will be shown 4 posts so that you will knw that there are some new posts and they can view it.<br>
 • User can like or unlike a post and comment on them<br>
 • Add a new protect to the stock<br>
