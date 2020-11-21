@@ -27,7 +27,7 @@ Once a user logged in, they can do following activities.<br>
 </ul>
 
 <br>
-<h6>This system is having a message system so that users can talk or pass a notification to others.</h6>
+<h3>This system is having a message system so that users can talk or pass a notification to others.</h3>
 
 Our system is having a message system so that user can talked to eachother through them. Our message system having following functionalities
 <ul>
